@@ -31,6 +31,8 @@
 //Function using anither function = Higher Order Function
 //Function being passed = Callback
 
+
+
 // //forEach
 
 
